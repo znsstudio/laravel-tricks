@@ -15,7 +15,7 @@
         <meta property="og:description" content="@yield('description')" />
         <meta name="description" content="@yield('description')">
         <meta name="author" content="{{ trans('layouts.meta_author') }}">
-        <title>
+        <title>Laravel.Club - 
 		@yield('title') 
 		| 
 		{{ trans('layouts.site_title') }}
